@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="FullScreen_dark" parent="android:Theme.Holo.NoActionBar.Fullscreen">
+        </style>
+
+    <style name="FullScreen_light" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+    </style>
+
+
+</resources>
